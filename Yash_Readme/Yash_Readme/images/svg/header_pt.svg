@@ -184,7 +184,7 @@ g.typingUnderline rect {
 <text font-family="Courier New" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
-      BRUNO TACCA
+      Yash Pawar
   </textPath>
 </text>
 
@@ -208,12 +208,12 @@ g.typingUnderline rect {
 
 <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
-      E aí!
+      Hi there!
 </text>
 
 <text x="17" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
-      Tudo bom?
+      How are you doing?
 </text>
 
 <image style="overflow:visible;clip-path:url(#mask);TWFkZUJ5VGFjY2E=;" 
