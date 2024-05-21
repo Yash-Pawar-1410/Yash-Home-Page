@@ -1,4 +1,4 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="https://github.com/Yash-Pawar-1410/Yash_Readme/blob/main/Yash_Readme/Yash_Readme/images/svg/header_en.svg"></img>
 
 ### &nbsp; 🕵🏻 About Me
 
