@@ -181,9 +181,9 @@ g.typingUnderline rect {
 </path>
 
 <text font-family="Courier New" font-size=".22em" fill="white"
-      font-weight="bold" letter-spacing="1">
+      font-weight="bold" letter-spacing="0.5">
   <textPath xlink:href="#nameTyping" >
-      Welcome to Yash World!
+      Welcome to Yash World
   </textPath>
 </text>
 
@@ -194,7 +194,7 @@ g.typingUnderline rect {
 </path>
 
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
-     text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
+     text-anchor="middle" alignment-baseline="hanging" font-style="italic"> 
   <textPath xlink:href="#descriptionTyping" >
       Software Devloper
   </textPath>
